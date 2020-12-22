@@ -27,7 +27,7 @@ def fib (n:int):
 {% endtab %}
 
 {% tab title="C\#" %}
-```javascript
+```csharp
 int fib(int n){
 
     if (n == 1) return 0;
