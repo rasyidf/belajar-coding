@@ -8,5 +8,7 @@
   * [Struktur Program](dasar/summary-2.md)
   * [Tipe Data](dasar/summary-3.md)
   * [Klausa](dasar/summary-4.md)
-* [Tutorial](summary.md)
+* [Tutorial](summary/README.md)
+  * [Fibronacii](summary/fibronacii.md)
+  * [Piramida](summary/piramida.md)
 
