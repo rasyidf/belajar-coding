@@ -1,12 +1,12 @@
-# Summary
+# Table of contents
 
 * [Landing](README.md)
-    * [Kebutuhan](docs/intro/kebutuhan.md)
-* [Dasar](docs/dasar/kebutuhan.md)
-    * [Algoritma](docs/dasar/algoritma/SUMMARY.md)
-    * [Logika](docs/dasar/logika/SUMMARY.md)
-    * [Struktur Program](docs/dasar/struktur/SUMMARY.md)
-    * [Tipe Data](docs/dasar/tipe-data/SUMMARY.md)
-    * [Klausa](docs/dasar/klausa/SUMMARY.md)
+* [Kebutuhan](kebutuhan.md)
+* [Dasar](dasar/README.md)
+  * [Algoritma](dasar/summary.md)
+  * [Logika](dasar/summary-1.md)
+  * [Struktur Program](dasar/summary-2.md)
+  * [Tipe Data](dasar/summary-3.md)
+  * [Klausa](dasar/summary-4.md)
+* [Tutorial](summary.md)
 
-* [Tutorial](docs/tutorial/SUMMARY.md)
